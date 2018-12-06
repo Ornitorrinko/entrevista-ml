@@ -1,4 +1,4 @@
-# entrevista-ml
+# desafio-ml-jr
 Desafio de ML para candidatos a ML engineers
 
 ## Desafio

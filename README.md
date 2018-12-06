@@ -7,7 +7,7 @@ Utilizar o dataset de consumo de cervejas e construir um modelo preditivo que re
 - Temperatura média
 - Temperatura mínima
 - Temperatura máxima
-- Precipitacao
+- Precipitacao (mm de chuva)
 - Final de semana
 
 Este modelo deve ter acurácia superior a 0.7
